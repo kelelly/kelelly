@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kelelly
-- 👀 I’m interested in typescript, Java, Python, HTML, CSS, Flutter and Dart, All web and Mobile frameworks
+- 👀 I’m interested in typescript, Java, Python, HTML, CSS, Flutter and Dart, All web and Mobile frameworks, Data analysis, Graphic designs
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on web and Moblile Development
 - 📫 How to reach me email: kelelly2018@gmail.com, Mobile: 0716517145
